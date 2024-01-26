@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Silly Envelopes - Your Envelope Superstore</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            margin: 20px;
+
+            padding: 20px;
+
+            background-color: #f8f8f8;
+
+        }
+
+        header {
+
+            background-color: #4CAF50;
+
+            color: white;
+
+            text-align: center;
+
+            padding: 10px;
+
+        }
+
+        h1 {
+
+            margin-bottom: 20px;
+
+        }
+
+        section {
+
+            display: flex;
+
+            flex-wrap: wrap;
+
+            gap: 20px;
+
+        }
+
+        .envelope {
+
+            background-color: #fff;
+
+            border: 1px solid #ddd;
+
+            padding: 20px;
+
+            border-radius: 8px;
+
+            width: 300px;
+
+        }
+
+        footer {
+
+            margin-top: 20px;
+
+            padding: 10px;
+
+            text-align: center;
+
+            background-color: #4CAF50;
+
+            color: white;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Silly Envelopes</h1>
+
+        <p>Your Envelope Superstore</p>
+
+    </header>
+
+
+
+    <section>
+
+        <div class="envelope">
+
+            <h2>Silly Birthday Envelope</h2>
+
+            <p>Perfect for adding a touch of humor to birthday celebrations!</p>
+
+            <p>Price: $5.99</p>
+
+            <button>Add to Cart</button>
+
+        </div>
+
+
+
+        <div class="envelope">
+
+            <h2>Silly Holiday Envelope</h2>
+
+            <p>Spread holiday cheer with our festive and silly envelopes!</p>
+
+            <p>Price: $6.99</p>
+
+            <button>Add to Cart</button>
+
+        </div>
+
+
+
+        <!-- Add more envelope listings as needed -->
+
+
+
+    </section>
+
+
+
+    <footer>
+
+        <p>&copy; 2024 Silly Envelopes - Your Envelope Superstore</p>
+
+    </footer>
+
+</body>
+
+</html>
+
